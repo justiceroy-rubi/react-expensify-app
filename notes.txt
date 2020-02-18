@@ -1,0 +1,66 @@
+12-116 - tbc
+
+
+
+vs code plugins:
+emmet
+
+yarn commands:
+yarn global add live-server / npm install -g live-server
+
+npm install -g babel-cli@6.24.1
+yarn init
+yarn add babel-preset-react@6.24.1 babel-preset-env@1.5.2
+
+react dom elements
+https://reactjs.org/docs/dom-elements.html
+
+
+stateless functional component
+- simple and role is only for presentation
+
+yarn add webpack@3.1.0
+
+1 default export
+many named exports
+
+yarn add react@16.0.0 react-dom@16.0.0
+
+yarn add babel-core@6.25.0 babel-loader@7.1.1
+
+yarn add webpack-dev-server@2.5.1
+
+yarn add babel-plugin-transform-class-properties@6.24.1
+
+yarn add react-modal@2.2.2
+
+yarn add style-loader@0.18.2 css-loader@0.28.4
+
+yarn add sass-loader@6.0.6 node-sass@4.5.3
+
+1rem = 16px
+
+normalize css to reset html
+this will reset all browsers
+yarn add normalize.css@7.0.0
+
+Html Head
+<!-- This is support for mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+yarn add react-router-dom@4.2.2
+yarn add redux@3.7.2
+
+yarn add uuid@3.1.0
+
+yarn add babel-plugin-transform-object-rest-spread@6.23.0
+
+yarn add react-redux@5.0.5
+
+regex101.com
+
+yarn add moment@2.18.1 react-dates@12.3.0 react-addons-shallow-compare@15.6.0
+
+yarn add jest@20.0.4
+
+yarn test -- --watch
